@@ -18,4 +18,4 @@ const Route = use('Route')
 
 Route.on('/').render('welcome')
 
-Route.post('/send/email', 'DadJokeController.sendJokesEmail')
+Route.post('send/email', 'DadJokeController.sendJokesEmail')

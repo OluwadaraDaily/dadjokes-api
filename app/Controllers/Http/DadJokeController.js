@@ -1,5 +1,4 @@
 'use strict'
-const Twilio = require('Twilio')
 const Env = use('Env')
 const Mail = use('Mail')
 // const mailjet = require ('node-mailjet')
